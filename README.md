@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/k24v47onogr7n4r7?svg=true)](https://ci.appveyor.com/project/VEVparashut/patterns1)
